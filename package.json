@@ -4,7 +4,8 @@
   "description": "从url上解析debug=1 并开启控制台",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "build": "rollup -c rollup.config.js"
   },
   "repository": {
     "type": "git",
