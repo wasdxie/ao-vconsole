@@ -1,0 +1,22 @@
+{
+  "name": "ao-vconsole",
+  "version": "1.0.0",
+  "description": "从url上解析debug=1 并开启控制台",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasdxie/ao-vconsole.git"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "xiedejun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasdxie/ao-vconsole/issues"
+  },
+  "homepage": "https://github.com/wasdxie/ao-vconsole#readme"
+}
