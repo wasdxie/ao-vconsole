@@ -13,8 +13,11 @@
   "keywords": [
     "console"
   ],
+  "devDependencies": {
+    "rollup": "3.27.1"
+  },
   "author": "xiedejun",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wasdxie/ao-vconsole/issues"
   },
