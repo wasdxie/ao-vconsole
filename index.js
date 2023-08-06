@@ -17,11 +17,10 @@ function appendVconsole(url) {
     document.body.appendChild(script);
 }
 
-function init() {
+export default function aoVconsole() {
     const params = parseUrl(window.location.href);
     if (params.get("debug") == '1') {
         appendVconsole();
     }
 }
 
-module.exports = init;

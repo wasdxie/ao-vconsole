@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "从url上解析debug=1 并开启控制台",
   "main": "index.js",
+  "module": "aovconsole.d.ts",
   "scripts": {
     "test": "test",
     "build": "rollup -c rollup.config.js"

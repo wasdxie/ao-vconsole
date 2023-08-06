@@ -2,6 +2,7 @@ module.exports ={
 	input: 'index.js',
 	output: {
 		file: 'bundle.js',
-		format: 'es',
+		format: 'umd',
+        name: 'aoVconsole'
 	}
 };
