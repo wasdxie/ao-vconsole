@@ -1,1 +1,3 @@
-export type aoVconsole = () => void;
+type aoVconsole = () => void
+
+export default  aoVconsole

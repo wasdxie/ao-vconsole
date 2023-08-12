@@ -1,7 +1,7 @@
 {
   "name": "ao-vconsole",
-  "version": "1.0.1",
-  "description": "从url上解析debug=1 并开启控制台",
+  "version": "1.0.2",
+  "description": "从url上解析debug=1 并开启vconsole控制台",
   "main": "index.js",
   "module": "aovconsole.d.ts",
   "scripts": {
